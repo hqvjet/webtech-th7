@@ -1,0 +1,17 @@
+.main {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.updateField {
+    border-style: none none solid none;
+    font-size: 1.1em;
+    margin-left: 10px;
+}
+
+.button {
+    width: 100px;
+    margin: 10px auto;
+}

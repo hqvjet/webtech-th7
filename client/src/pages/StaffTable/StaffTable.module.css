@@ -1,0 +1,25 @@
+.container {
+    width: 90%;
+    height: 100%;
+    text-align: left;
+}
+
+.linear {
+    width: 80%;
+    height: 1px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.updateField {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px 0;
+    width: 80%;
+    height: auto;
+}
+
+.data {
+    width: 100%;
+    height: auto;
+}
